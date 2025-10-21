@@ -1,15 +1,11 @@
 
 <div align="center">
-  <h1>Davi Trefs de Borba</h1>
+  <h1>Davi Treㅤㅤㅤㅤ­­fs de Borba</h1>
   <p>Estudante de Análise e Desenvolvimento de Sistemas (ADS) | Análise de Dados |</p>
 </div>
 
-Sou um estudante de tecnologia, atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)**, com especialização em ferramentas de **Business Intelligence** e **Análise de Dados**. 
-
-Busco aplicar o conhecimento técnico e a capacidade analítica para transformar dados em *insights* e soluções de software eficientes.
 
 ---
-
 ### 💻 Conhecimentos & Habilidades
 
 Minha base de conhecimento é sólida, com destaque para a área de análise e manipulação de dados:
