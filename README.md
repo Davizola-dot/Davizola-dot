@@ -1,16 +1,43 @@
-## Hi there 👋
 
-<!--
-**Davizola-dot/Davizola-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="assets/minha_foto.png" alt="Foto de Perfil - Estudante ADS e BI" width="150" height="150" style="border-radius: 50%;"/>
+  <h1>Seu Nome Completo</h1>
+  <p>Estudante de Análise e Desenvolvimento de Sistemas (ADS) | Especialista em Business Intelligence e Análise de Dados</p>
+</div>
 
-Here are some ideas to get you started:
+Sou um estudante de tecnologia focado em **Análise e Desenvolvimento de Sistemas (ADS)**, com especialização em ferramentas de **Business Intelligence** e **Análise de Dados**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Busco aplicar o conhecimento técnico e a capacidade analítica para transformar dados em *insights* e soluções de software eficientes.
+
+---
+
+### 💻 Conhecimentos & Habilidades
+
+Minha base de conhecimento é sólida, com destaque para a área de análise e manipulação de dados:
+
+#### **🚀 Formação Principal**
+
+* **Técnico em Análise e Desenvolvimento de Sistemas (SENAI):** Foco em desenvolvimento de software e lógica de programação.
+
+#### **📊 Data & BI**
+
+* **Microsoft Power BI (SENAI):** Proficiência na criação de painéis (dashboards), ETL (Extract, Transform, Load) e modelagem de dados para visualização estratégica.
+* **Microsoft Excel Avançado (SENAI):** Habilidade em funções complexas, tabelas dinâmicas, automatização e análise de grandes volumes de dados.
+
+#### **🌐 Linguagens & Ferramentas**
+
+* **Tecnologias de ADS:** `Python`, `Html + CSS`, `SQL`, `JavaScript`,)
+* **Inglês Avançado:** Capacidade de ler documentações técnicas, participar de discussões e utilizar recursos internacionais.
+
+---
+
+### 📬 Conecte-se Comigo
+
+| **Localização** | **E-mail** |
+| :---: | :---: |
+| Tatuí - SP | [borbatrefs.davi@gmail.com]
+
+
+---
+<div align="center">
+    </div>
