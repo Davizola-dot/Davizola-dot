@@ -1,11 +1,10 @@
 
 <div align="center">
-  <img src="assets/minha_foto.png" alt="Foto de Perfil - Estudante ADS e BI" width="150" height="150" style="border-radius: 50%;"/>
-  <h1>Seu Nome Completo</h1>
-  <p>Estudante de Análise e Desenvolvimento de Sistemas (ADS) | Especialista em Business Intelligence e Análise de Dados</p>
+  <h1>Davi Trefs de Borba</h1>
+  <p>Estudante de Análise e Desenvolvimento de Sistemas (ADS) | Análise de Dados |</p>
 </div>
 
-Sou um estudante de tecnologia focado em **Análise e Desenvolvimento de Sistemas (ADS)**, com especialização em ferramentas de **Business Intelligence** e **Análise de Dados**. 
+Sou um estudante de tecnologia, atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)**, com especialização em ferramentas de **Business Intelligence** e **Análise de Dados**. 
 
 Busco aplicar o conhecimento técnico e a capacidade analítica para transformar dados em *insights* e soluções de software eficientes.
 
