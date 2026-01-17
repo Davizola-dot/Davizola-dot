@@ -1,6 +1,6 @@
 <!-- Título centralizado -->
 <div align="center">
-  <h1>👋 Olá, eu sou o <strong>Davi Treㅤfs de Borba</strong></h1>
+  <h1>👋 Olá, eu sou o <strong>Davi Trefs de Borba</strong></h1>
   <p>💻 Estudante de <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong> <br>
 </div>
 
